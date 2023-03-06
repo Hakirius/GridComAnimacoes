@@ -16,7 +16,7 @@
 
 ## 🔖 Layout
 
-<img alt="Ice Cream" src="./Images/preview.png" width="100%">
+<img alt="Ice Cream" src="./images/preview.png" width="100%">
 
 
 <br>
